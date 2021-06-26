@@ -1,0 +1,37 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/logo.js": "components/logo.js",
+    "components/public-small-barners.js": "components/public-small-barners.js",
+    "components/public-team.js": "components/public-team.js",
+    "components/universal-can-not-find.js": "components/universal-can-not-find.js",
+    "components/vuetify-logo.js": "components/vuetify-logo.js",
+    "pages/apropos/index.js": "pages/apropos/index.js",
+    "pages/contact.js": "pages/contact.js",
+    "pages/covid-19-information.js": "pages/covid-19-information.js",
+    "pages/equipe/_id.js": "pages/equipe/_id.js",
+    "pages/equipe/index.js": "pages/equipe/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/inspire.js": "pages/inspire.js",
+    "pages/service/_slug.js": "pages/service/_slug.js",
+    "pages/service/index.js": "pages/service/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/logo.js": "components/logo.js.map",
+    "components/public-small-barners.js": "components/public-small-barners.js.map",
+    "components/public-team.js": "components/public-team.js.map",
+    "components/universal-can-not-find.js": "components/universal-can-not-find.js.map",
+    "components/vuetify-logo.js": "components/vuetify-logo.js.map",
+    "pages/apropos/index.js": "pages/apropos/index.js.map",
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/covid-19-information.js": "pages/covid-19-information.js.map",
+    "pages/equipe/_id.js": "pages/equipe/_id.js.map",
+    "pages/equipe/index.js": "pages/equipe/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/inspire.js": "pages/inspire.js.map",
+    "pages/service/_slug.js": "pages/service/_slug.js.map",
+    "pages/service/index.js": "pages/service/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
